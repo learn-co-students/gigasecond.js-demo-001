@@ -4,12 +4,11 @@ tags: date, oo
 ---
 
 # Gigasecond
+
 ## Getting Started
 
-Run `npm install`
+A [gigasecond](http://en.wikipedia.org/wiki/Gigasecond) is 1 billion seconds, or roughly 31.558 years.
 
 ## Tests
 
-Run `grunt watch` then edit your files. Grunt will watch for changes. Grunt
-will only run tests that start with `it`. When you finish passing a test,
-remove the `x` from `xit` to convert it to a runnable test.
+Run `learn` or `learn -b` (opens suite in browser).

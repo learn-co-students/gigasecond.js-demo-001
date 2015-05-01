@@ -1,0 +1,5 @@
+javascripts:
+  files:
+    - lib/gigasecond.js
+  specs:
+    - spec/gigasecond.spec.js
