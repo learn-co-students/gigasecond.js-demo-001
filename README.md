@@ -5,10 +5,12 @@ tags: date, oo
 
 # Gigasecond
 
-## Getting Started
+## Objective
 
-A [gigasecond](http://en.wikipedia.org/wiki/Gigasecond) is 1 billion seconds, or roughly 31.558 years.
+A gigasecond is one billion (10**9) seconds.
+
+Write a program that will calculate the date that someone turned or will celebrate their 1 Gs anniversary (roughly 31.558 years).
 
 ## Tests
 
-Run `learn` or `learn -b` (opens suite in browser).
+Take a look at `spec/gigasecond.spec.js`. Then run `learn` or `learn -b` (opens suite in browser).
