@@ -1,7 +1,4 @@
----
-languages: javascript
-tags: date, oo
----
+
 
 # Gigasecond
 
