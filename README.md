@@ -11,3 +11,4 @@ Write a program that will calculate the date that someone turned or will celebra
 ## Tests
 
 Take a look at `spec/gigasecond.spec.js`. Then run `learn` or `learn -b` (opens suite in browser).
+<a href='https://learn.co/lessons/gigasecond.js' data-visibility='hidden'>View this lesson on Learn.co</a>
